@@ -1,0 +1,16 @@
+# repos to track every day, one owner/name per line (trending repos are added automatically)
+morluto/rea
+openclaw/openclaw
+mattpocock/skills
+obra/superpowers
+affaan-m/ECC
+deepseek-ai/deepseek-harness
+NousResearch/hermes-agent
+multica-ai/andrej-karpathy-skills
+anomalyco/opencode
+ultraworkers/claw-code
+anthropics/skills
+anthropics/claude-code
+openai/codex
+google-gemini/gemini-cli
+github/spec-kit

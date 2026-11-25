@@ -1,0 +1,2100 @@
+{
+ "date": "2026-11-06",
+ "fetched": "2026-11-06T18:23:03+00:00",
+ "trending": {
+  "daily": [
+   {
+    "repo": "zed-industries/zed",
+    "desc": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "lang": "Rust",
+    "total": 93338,
+    "gained": 292
+   },
+   {
+    "repo": "NVIDIA/auto-ontology",
+    "desc": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "lang": "Python",
+    "total": 8708,
+    "gained": 2005
+   },
+   {
+    "repo": "rails/rails",
+    "desc": "Ruby on Rails",
+    "lang": "Ruby",
+    "total": 58940,
+    "gained": 152
+   },
+   {
+    "repo": "mpv-player/mpv",
+    "desc": "🎥 Command line media player",
+    "lang": "C",
+    "total": 37823,
+    "gained": 36
+   },
+   {
+    "repo": "rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust",
+    "total": 121305,
+    "gained": 186
+   },
+   {
+    "repo": "react/react",
+    "desc": "The library for web and native user interfaces.",
+    "lang": "JavaScript",
+    "total": 252142,
+    "gained": 244
+   },
+   {
+    "repo": "angular/angular",
+    "desc": "Deliver web apps with confidence 🚀",
+    "lang": "TypeScript",
+    "total": 101229,
+    "gained": 128
+   },
+   {
+    "repo": "symfony/symfony",
+    "desc": "The Symfony PHP framework",
+    "lang": "PHP",
+    "total": 31319,
+    "gained": 89
+   },
+   {
+    "repo": "prometheus/prometheus",
+    "desc": "The Prometheus monitoring system and time series database.",
+    "lang": "Go",
+    "total": 67067,
+    "gained": 140
+   },
+   {
+    "repo": "google/skills",
+    "desc": "Agent Skills for Google products and technologies",
+    "lang": "Python",
+    "total": 22745,
+    "gained": 532
+   },
+   {
+    "repo": "microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript",
+    "total": 194900,
+    "gained": 295
+   },
+   {
+    "repo": "lz4/lz4",
+    "desc": "Extremely Fast Compression algorithm",
+    "lang": "C",
+    "total": 12604,
+    "gained": 313
+   },
+   {
+    "repo": "nushell/nushell",
+    "desc": "A new type of shell",
+    "lang": "Rust",
+    "total": 40870,
+    "gained": 88
+   },
+   {
+    "repo": "etcd-io/etcd",
+    "desc": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "lang": "Go",
+    "total": 52540,
+    "gained": 123
+   },
+   {
+    "repo": "openssl/openssl",
+    "desc": "General purpose TLS and crypto library",
+    "lang": "C",
+    "total": 31246,
+    "gained": 24
+   },
+   {
+    "repo": "mattpocock/skills",
+    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+    "lang": "Shell",
+    "total": 316449,
+    "gained": 2058
+   },
+   {
+    "repo": "cloudflare/security-audit-skill",
+    "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "lang": "JavaScript",
+    "total": 63458,
+    "gained": 2524
+   },
+   {
+    "repo": "astral-sh/ruff",
+    "desc": "An extremely fast Python linter and code formatter, written in Rust.",
+    "lang": "Rust",
+    "total": 50563,
+    "gained": 107
+   }
+  ],
+  "weekly": [
+   {
+    "repo": "thedotmack/claude-mem",
+    "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "lang": "TypeScript",
+    "total": 113897,
+    "gained": 9318
+   },
+   {
+    "repo": "Donchitos/Claude-Code-Game-Studios",
+    "desc": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+    "lang": "Shell",
+    "total": 36028,
+    "gained": 6685
+   },
+   {
+    "repo": "pingdotgg/t3code",
+    "desc": "",
+    "lang": "TypeScript",
+    "total": 49370,
+    "gained": 16235
+   },
+   {
+    "repo": "max-sixty/worktrunk",
+    "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "lang": "Rust",
+    "total": 11763,
+    "gained": 1802
+   },
+   {
+    "repo": "Nutlope/hallmark",
+    "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "lang": "CSS",
+    "total": 49432,
+    "gained": 6994
+   },
+   {
+    "repo": "anthropics/skills",
+    "desc": "Public repository for Agent Skills",
+    "lang": "Python",
+    "total": 188096,
+    "gained": 3072
+   },
+   {
+    "repo": "milind-soni/OpenMausBot",
+    "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "lang": "TypeScript",
+    "total": 14933,
+    "gained": 5580
+   },
+   {
+    "repo": "pbakaus/impeccable",
+    "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "lang": "Rust",
+    "total": 104625,
+    "gained": 9303
+   },
+   {
+    "repo": "obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "total": 313485,
+    "gained": 5131
+   },
+   {
+    "repo": "HKUDS/DeepTutor",
+    "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "lang": "Python",
+    "total": 55851,
+    "gained": 6229
+   },
+   {
+    "repo": "hyprwm/Hyprland",
+    "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "lang": "C++",
+    "total": 40426,
+    "gained": 1371
+   },
+   {
+    "repo": "jakubkrehel/skills",
+    "desc": "A collection of agent skills that help you build great interfaces.",
+    "lang": "Markdown",
+    "total": 11237,
+    "gained": 1840
+   },
+   {
+    "repo": "calesthio/OpenMontage",
+    "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+    "lang": "Python",
+    "total": 77593,
+    "gained": 4132
+   },
+   {
+    "repo": "The-PR-Agent/pr-agent",
+    "desc": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+    "lang": "Python",
+    "total": 15256,
+    "gained": 1355
+   },
+   {
+    "repo": "nightly-labs/openbot",
+    "desc": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "lang": "TypeScript",
+    "total": 5998,
+    "gained": 2085
+   },
+   {
+    "repo": "D4Vinci/Scrapling",
+    "desc": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+    "lang": "Python",
+    "total": 98739,
+    "gained": 7487
+   },
+   {
+    "repo": "multica-ai/andrej-karpathy-skills",
+    "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "lang": null,
+    "total": 230195,
+    "gained": 3713
+   },
+   {
+    "repo": "shiyu-coder/Kronos",
+    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "lang": "Python",
+    "total": 47028,
+    "gained": 2979
+   }
+  ],
+  "monthly": [
+   {
+    "repo": "morluto/rea",
+    "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "lang": "TypeScript",
+    "total": 437245,
+    "gained": 430792
+   },
+   {
+    "repo": "storytold/artcraft",
+    "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "lang": "Rust",
+    "total": 39199,
+    "gained": 36681
+   },
+   {
+    "repo": "boykopovar/AnyPS5",
+    "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "lang": "C++",
+    "total": 51707,
+    "gained": 47184
+   },
+   {
+    "repo": "Nutlope/hallmark",
+    "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "lang": "CSS",
+    "total": 49433,
+    "gained": 19070
+   },
+   {
+    "repo": "cloudflare/security-audit-skill",
+    "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "lang": "JavaScript",
+    "total": 63458,
+    "gained": 35956
+   },
+   {
+    "repo": "debpalash/VoiceStudio",
+    "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "lang": "Python",
+    "total": 102680,
+    "gained": 48803
+   },
+   {
+    "repo": "heygen-com/hyperframes",
+    "desc": "Write HTML. Render video. Built for agents.",
+    "lang": "TypeScript",
+    "total": 79994,
+    "gained": 22694
+   },
+   {
+    "repo": "pingdotgg/t3code",
+    "desc": "",
+    "lang": "TypeScript",
+    "total": 49370,
+    "gained": 22239
+   },
+   {
+    "repo": "thedotmack/claude-mem",
+    "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "lang": "TypeScript",
+    "total": 113897,
+    "gained": 17621
+   },
+   {
+    "repo": "NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "lang": "Java",
+    "total": 98331,
+    "gained": 17641
+   },
+   {
+    "repo": "pbakaus/impeccable",
+    "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "lang": "Rust",
+    "total": 104625,
+    "gained": 27205
+   },
+   {
+    "repo": "HKUDS/DeepTutor",
+    "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "lang": "Python",
+    "total": 55851,
+    "gained": 14748
+   },
+   {
+    "repo": "anthropics/knowledge-work-plugins",
+    "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "lang": "Python",
+    "total": 34971,
+    "gained": 8823
+   }
+  ]
+ },
+ "stars": {
+  "morluto/rea": {
+   "stars": 437246,
+   "created": "2026-04-14",
+   "lang": "TypeScript",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "android",
+    "claude-code",
+    "cli",
+    "cpp",
+    "dsh-plugin",
+    "html"
+   ],
+   "desc": "Reverse engineer anything with agents, from app behavior down to native binaries."
+  },
+  "openclaw/openclaw": {
+   "stars": 394047,
+   "created": "2025-11-24",
+   "lang": "TypeScript",
+   "topics": [
+    "ai",
+    "assistant",
+    "crustacean",
+    "molty",
+    "openclaw",
+    "own-your-data",
+    "personal"
+   ],
+   "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 "
+  },
+  "mattpocock/skills": {
+   "stars": 316450,
+   "created": "2026-02-03",
+   "lang": "Shell",
+   "topics": [],
+   "desc": "Skills for Real Engineers. Straight from my .agents directory."
+  },
+  "obra/superpowers": {
+   "stars": 313485,
+   "created": "2025-10-09",
+   "lang": "Shell",
+   "topics": [
+    "ai",
+    "brainstorming",
+    "coding",
+    "obra",
+    "sdlc",
+    "skills",
+    "subagent-driven-development",
+    "superpowers"
+   ],
+   "desc": "An agentic skills framework & software development methodology that works."
+  },
+  "affaan-m/ECC": {
+   "stars": 298414,
+   "created": "2026-01-18",
+   "lang": "JavaScript",
+   "topics": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "productivity"
+   ],
+   "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+  },
+  "deepseek-ai/deepseek-harness": {
+   "stars": 274788,
+   "created": "2026-08-13",
+   "lang": "TypeScript",
+   "topics": [
+    "ai-agents",
+    "cordis",
+    "dsh",
+    "dsh-plugin"
+   ],
+   "desc": "DeepSeek Harness: Everything is a Plugin."
+  },
+  "NousResearch/hermes-agent": {
+   "stars": 261137,
+   "created": "2025-07-22",
+   "lang": "Python",
+   "topics": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "anthropic",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "codex"
+   ],
+   "desc": "The agent that grows with you"
+  },
+  "multica-ai/andrej-karpathy-skills": {
+   "stars": 230195,
+   "created": "2026-01-27",
+   "lang": null,
+   "topics": [],
+   "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+  },
+  "ultraworkers/claw-code": {
+   "stars": 194949,
+   "created": "2026-03-31",
+   "lang": "Rust",
+   "topics": [],
+   "desc": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention."
+  },
+  "anthropics/skills": {
+   "stars": 188096,
+   "created": "2025-09-22",
+   "lang": "Python",
+   "topics": [
+    "agent-skills"
+   ],
+   "desc": "Public repository for Agent Skills"
+  },
+  "DietrichGebert/ponytail": {
+   "stars": 185729,
+   "created": "2026-06-12",
+   "lang": "JavaScript",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "cursor-rules",
+    "developer-tools",
+    "llm"
+   ],
+   "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+  },
+  "msitarzewski/agency-agents": {
+   "stars": 166903,
+   "created": "2025-10-13",
+   "lang": "Shell",
+   "topics": [],
+   "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a"
+  },
+  "farion1231/cc-switch": {
+   "stars": 152349,
+   "created": "2025-08-04",
+   "lang": "Rust",
+   "topics": [
+    "ai-tools",
+    "claude-code",
+    "codex",
+    "deepseek-harness",
+    "desktop-app",
+    "grok",
+    "grokbuild",
+    "hermes"
+   ],
+   "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io"
+  },
+  "github/spec-kit": {
+   "stars": 148141,
+   "created": "2025-08-21",
+   "lang": "Python",
+   "topics": [
+    "ai",
+    "copilot",
+    "development",
+    "engineering",
+    "prd",
+    "spec",
+    "spec-driven"
+   ],
+   "desc": "💫 Toolkit to help you get started with SDD or any other process!"
+  },
+  "nextlevelbuilder/ui-ux-pro-max-skill": {
+   "stars": 146092,
+   "created": "2025-11-30",
+   "lang": "Python",
+   "topics": [
+    "ai-skills",
+    "antigravity",
+    "claude",
+    "claude-code",
+    "codex",
+    "command-line",
+    "copilot",
+    "cursor-ai"
+   ],
+   "desc": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms."
+  },
+  "Graphify-Labs/graphify": {
+   "stars": 143415,
+   "created": "2026-04-03",
+   "lang": "Python",
+   "topics": [
+    "ai-agents",
+    "antigravity",
+    "ast",
+    "claude-code",
+    "code-analysis",
+    "code-search",
+    "codex",
+    "cursor"
+   ],
+   "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e"
+  },
+  "garrytan/gstack": {
+   "stars": 140375,
+   "created": "2026-03-11",
+   "lang": "TypeScript",
+   "topics": [],
+   "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+  },
+  "VoltAgent/awesome-design-md": {
+   "stars": 125890,
+   "created": "2026-03-31",
+   "lang": null,
+   "topics": [
+    "awesome-list",
+    "design-md",
+    "design-system",
+    "design-tokens",
+    "figma",
+    "landing-page",
+    "vibe-coding",
+    "vibe-design"
+   ],
+   "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI."
+  },
+  "earendil-works/pi": {
+   "stars": 120481,
+   "created": "2025-08-09",
+   "lang": "TypeScript",
+   "topics": [],
+   "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
+  },
+  "JuliusBrussee/caveman": {
+   "stars": 117968,
+   "created": "2026-04-04",
+   "lang": "Go",
+   "topics": [
+    "ai",
+    "anthropic",
+    "caveman",
+    "claude",
+    "claude-code",
+    "llm",
+    "meme",
+    "prompt-engineering"
+   ],
+   "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
+  },
+  "stablyai/orca": {
+   "stars": 117608,
+   "created": "2026-03-17",
+   "lang": "TypeScript",
+   "topics": [
+    "agent-ide",
+    "ai-agents",
+    "automation",
+    "bot",
+    "claude-code",
+    "codex",
+    "ghostty",
+    "grok-bot"
+   ],
+   "desc": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime."
+  },
+  "thedotmack/claude-mem": {
+   "stars": 113897,
+   "created": "2025-08-31",
+   "lang": "TypeScript",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-memory",
+    "anthropic",
+    "artificial-intelligence",
+    "chromadb",
+    "claude",
+    "claude-agent-sdk"
+   ],
+   "desc": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla"
+  },
+  "addyosmani/agent-skills": {
+   "stars": 113687,
+   "created": "2026-02-15",
+   "lang": "JavaScript",
+   "topics": [
+    "agent-skills",
+    "antigravity",
+    "claude-code",
+    "codex",
+    "cursor",
+    "skills"
+   ],
+   "desc": "Production-grade engineering skills for AI coding agents."
+  },
+  "paperclipai/paperclip": {
+   "stars": 111691,
+   "created": "2026-03-02",
+   "lang": "TypeScript",
+   "topics": [
+    "acpx",
+    "agent-orchestration",
+    "agent-skills",
+    "agentic-ai",
+    "ai-agents",
+    "ai-engineering",
+    "ai-governance",
+    "ai-tools"
+   ],
+   "desc": "The open-source app everyone uses to manage agents at work"
+  },
+  "Leonxlnx/taste-skill": {
+   "stars": 111139,
+   "created": "2026-02-19",
+   "lang": "JavaScript",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "anti-slop",
+    "claude-code",
+    "codex",
+    "cursor",
+    "design-system",
+    "frontend"
+   ],
+   "desc": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages"
+  },
+  "Panniantong/Agent-Reach": {
+   "stars": 109621,
+   "created": "2026-02-24",
+   "lang": "Python",
+   "topics": [
+    "agent-infrastructure",
+    "ai-agent",
+    "ai-search",
+    "automation",
+    "bilibili",
+    "claude-code",
+    "cli",
+    "cursor"
+   ],
+   "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+  },
+  "nexu-io/open-design": {
+   "stars": 106287,
+   "created": "2026-04-28",
+   "lang": "TypeScript",
+   "topics": [
+    "agent-skills",
+    "ai-design",
+    "byok",
+    "claude-code-for-design",
+    "claude-design",
+    "codex-design",
+    "cursor-design",
+    "deepseek"
+   ],
+   "desc": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha"
+  },
+  "pbakaus/impeccable": {
+   "stars": 104625,
+   "created": "2025-11-16",
+   "lang": "Rust",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "anti-slop",
+    "design",
+    "slop"
+   ],
+   "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+  },
+  "ruvnet/RuView": {
+   "stars": 102702,
+   "created": "2025-06-07",
+   "lang": "Rust",
+   "topics": [
+    "awesome",
+    "claude",
+    "densepose",
+    "esp32",
+    "firmware",
+    "home-assistant",
+    "home-automation",
+    "iot"
+   ],
+   "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+  },
+  "debpalash/VoiceStudio": {
+   "stars": 102680,
+   "created": "2026-04-09",
+   "lang": "Python",
+   "topics": [
+    "ai",
+    "audiobook",
+    "cuda",
+    "dubbing",
+    "elevenlabs-alternative",
+    "huggingface",
+    "local-first",
+    "mlx"
+   ],
+   "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+  },
+  "karpathy/autoresearch": {
+   "stars": 99386,
+   "created": "2026-03-06",
+   "lang": "Python",
+   "topics": [],
+   "desc": "AI agents running research on single-GPU nanochat training automatically"
+  },
+  "OpenCut-app/OpenCut": {
+   "stars": 97491,
+   "created": "2025-06-22",
+   "lang": "TypeScript",
+   "topics": [
+    "editor",
+    "oss",
+    "videoeditor"
+   ],
+   "desc": "The open-source CapCut alternative"
+  },
+  "odysseus-dev/odysseus": {
+   "stars": 95308,
+   "created": "2026-05-31",
+   "lang": "Python",
+   "topics": [],
+   "desc": "Self-hosted AI workspace. "
+  },
+  "tt-a1i/archify": {
+   "stars": 94153,
+   "created": "2026-04-15",
+   "lang": "JavaScript",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "architecture-diagram",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "coding-agents",
+    "deepseek-harness"
+   ],
+   "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more."
+  },
+  "Egonex-AI/Understand-Anything": {
+   "stars": 91082,
+   "created": "2026-03-15",
+   "lang": "TypeScript",
+   "topics": [
+    "antigravity-skills",
+    "business-knowledge",
+    "claude-code",
+    "claude-skills",
+    "codebase-analysis",
+    "codex",
+    "codex-skills",
+    "developer-tools-ai-agent"
+   ],
+   "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,"
+  },
+  "koala73/worldmonitor": {
+   "stars": 90273,
+   "created": "2026-01-08",
+   "lang": "TypeScript",
+   "topics": [
+    "agent",
+    "ai",
+    "dashboard",
+    "geopolitics",
+    "mcp",
+    "mcp-server",
+    "monitoring",
+    "news"
+   ],
+   "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
+  },
+  "datawhalechina/hello-agents": {
+   "stars": 86270,
+   "created": "2025-09-07",
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "llm",
+    "rag",
+    "tutorial"
+   ],
+   "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+  },
+  "rtk-ai/rtk": {
+   "stars": 85740,
+   "created": "2026-01-22",
+   "lang": "Rust",
+   "topics": [
+    "agentic-coding",
+    "ai-coding",
+    "anthropic",
+    "claude-code",
+    "cli",
+    "command-line-tool",
+    "cost-reduction",
+    "developer-tools"
+   ],
+   "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies"
+  },
+  "cheaper-inference/OmniRoute": {
+   "stars": 85112,
+   "created": "2026-02-13",
+   "lang": "TypeScript",
+   "topics": [
+    "a2a",
+    "ai-agents",
+    "ai-gateway",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "cline",
+    "codex"
+   ],
+   "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline"
+  },
+  "bytedance/deer-flow": {
+   "stars": 85074,
+   "created": "2025-05-07",
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "agentic",
+    "agentic-framework",
+    "agentic-workflow",
+    "ai",
+    "ai-agents",
+    "deep-research",
+    "harness"
+   ],
+   "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta"
+  },
+  "666ghj/MiroFish": {
+   "stars": 84455,
+   "created": "2025-11-26",
+   "lang": "Python",
+   "topics": [
+    "agent-memory",
+    "financial-forecasting",
+    "future-prediction",
+    "knowledge-graph",
+    "llms",
+    "multi-agent-simulation",
+    "public-opinion-analysis",
+    "python3"
+   ],
+   "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+  },
+  "ruvnet/ruflo": {
+   "stars": 81066,
+   "created": "2025-06-02",
+   "lang": "TypeScript",
+   "topics": [
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "agents",
+    "ai-agents",
+    "ai-assistant",
+    "ai-skills",
+    "autonomous-agents"
+   ],
+   "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa"
+  },
+  "career-ops-hq/career-ops": {
+   "stars": 80672,
+   "created": "2026-04-04",
+   "lang": "JavaScript",
+   "topics": [
+    "agent-skills",
+    "ai-agent",
+    "ai-job-search",
+    "ats",
+    "career",
+    "career-ops",
+    "claude-code",
+    "claude-code-plugin"
+   ],
+   "desc": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat"
+  },
+  "heygen-com/hyperframes": {
+   "stars": 79994,
+   "created": "2026-03-10",
+   "lang": "TypeScript",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "animation",
+    "claude-code",
+    "ffmpeg",
+    "framework",
+    "gsap",
+    "html"
+   ],
+   "desc": "Write HTML. Render video. Built for agents."
+  },
+  "shareAI-lab/learn-claude-code": {
+   "stars": 79990,
+   "created": "2025-06-29",
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "agent-development",
+    "ai-agent",
+    "claude",
+    "claude-code",
+    "educational",
+    "llm",
+    "python"
+   ],
+   "desc": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1"
+  },
+  "headroomlabs-ai/headroom": {
+   "stars": 79009,
+   "created": "2026-01-07",
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "ai",
+    "anthropic",
+    "claude-code",
+    "compression",
+    "context-engineering",
+    "context-window",
+    "cursor"
+   ],
+   "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server."
+  },
+  "ComposioHQ/awesome-claude-skills": {
+   "stars": 78931,
+   "created": "2025-10-17",
+   "lang": "Python",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "antigravity",
+    "automation",
+    "claude",
+    "claude-code",
+    "codex",
+    "composio"
+   ],
+   "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+  },
+  "calesthio/OpenMontage": {
+   "stars": 77593,
+   "created": "2026-03-29",
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "agentic-ai",
+    "ai",
+    "claude",
+    "copilot",
+    "cursor",
+    "elevenlabs",
+    "ffmpeg"
+   ],
+   "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc"
+  },
+  "storytold/photocraft": {
+   "stars": 77430,
+   "created": "2026-09-30",
+   "lang": "Rust",
+   "topics": [
+    "art",
+    "image-editing",
+    "image-editing-software",
+    "image-editor",
+    "images",
+    "photo-editing",
+    "rust"
+   ],
+   "desc": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust"
+  },
+  "rohitg00/ai-engineering-from-scratch": {
+   "stars": 77108,
+   "created": "2026-03-18",
+   "lang": "Python",
+   "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-engineering",
+    "computer-vision",
+    "course",
+    "deep-learning",
+    "dsh"
+   ],
+   "desc": "Learn AI Engineering! Learn it. Build it. Ship it for others."
+  },
+  "colbymchenry/codegraph": {
+   "stars": 76920,
+   "created": "2026-01-18",
+   "lang": "TypeScript",
+   "topics": [],
+   "desc": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca"
+  },
+  "hugohe3/ppt-master": {
+   "stars": 74250,
+   "created": "2025-12-10",
+   "lang": "Python",
+   "topics": [
+    "ai-agent",
+    "aippt",
+    "office",
+    "powerpoint",
+    "powerpoint-generation",
+    "ppt",
+    "pptx",
+    "presentation"
+   ],
+   "desc": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support"
+  },
+  "Fission-AI/OpenSpec": {
+   "stars": 74154,
+   "created": "2025-08-05",
+   "lang": "TypeScript",
+   "topics": [
+    "ai",
+    "context-engineering",
+    "engineering",
+    "planning",
+    "prd",
+    "sdd",
+    "sdlc",
+    "spec"
+   ],
+   "desc": "Spec-driven development (SDD) for AI coding assistants."
+  },
+  "tw93/Mole": {
+   "stars": 74107,
+   "created": "2025-09-23",
+   "lang": "Shell",
+   "topics": [
+    "analyzer",
+    "appcleaner",
+    "clean",
+    "cleaner",
+    "cleanmymac",
+    "command-line",
+    "daisydisk",
+    "istat"
+   ],
+   "desc": "🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps."
+  },
+  "usestrix/strix": {
+   "stars": 74097,
+   "created": "2025-08-05",
+   "lang": "Python",
+   "topics": [
+    "agents",
+    "ai-hacking",
+    "ai-penetration-testing",
+    "ai-pentesting",
+    "ai-security",
+    "artificial-intelligence",
+    "bug-bounty",
+    "code-quality"
+   ],
+   "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+  },
+  "eternity4719/HowToLiveBetter": {
+   "stars": 74023,
+   "created": "2026-09-07",
+   "lang": "HTML",
+   "topics": [],
+   "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。"
+  },
+  "code-yeongyu/oh-my-openagent": {
+   "stars": 70746,
+   "created": "2025-12-03",
+   "lang": "TypeScript",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "anthropic",
+    "chatgpt",
+    "claude",
+    "claude-skills",
+    "codex",
+    "cursor"
+   ],
+   "desc": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+  },
+  "ai-job-search-dev/ai-job-search": {
+   "stars": 70059,
+   "created": "2026-03-18",
+   "lang": "Python",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "career",
+    "claude-code",
+    "cover-letter",
+    "cv",
+    "interview-preparation",
+    "job-application"
+   ],
+   "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
+  },
+  "shanraisshan/claude-code-best-practice": {
+   "stars": 68707,
+   "created": "2025-10-31",
+   "lang": "HTML",
+   "topics": [
+    "agentic-ai",
+    "agentic-coding",
+    "agentic-engineering",
+    "agentic-workflow",
+    "ai",
+    "ai-agents",
+    "anthropic",
+    "best-practices"
+   ],
+   "desc": "from vibe coding to agentic engineering - practice makes claude perfect"
+  },
+  "ZhuLinsen/daily_stock_analysis": {
+   "stars": 67646,
+   "created": "2026-01-10",
+   "lang": "Python",
+   "topics": [
+    "a-stock",
+    "ai-agent",
+    "aigc",
+    "llm",
+    "quant",
+    "quantitative-finance",
+    "quantitative-trading"
+   ],
+   "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f"
+  },
+  "Alishahryar1/free-claude-code": {
+   "stars": 66910,
+   "created": "2026-01-28",
+   "lang": "Python",
+   "topics": [],
+   "desc": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser "
+  },
+  "mvanhorn/last30days-skill": {
+   "stars": 66829,
+   "created": "2026-01-23",
+   "lang": "Python",
+   "topics": [
+    "ai-prompts",
+    "ai-skill",
+    "bluesky",
+    "claude",
+    "claude-code",
+    "clawhub",
+    "deep-research",
+    "hackernews"
+   ],
+   "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+  },
+  "blader/humanizer": {
+   "stars": 65572,
+   "created": "2026-01-18",
+   "lang": "Python",
+   "topics": [
+    "agent-skills",
+    "ai-humanizer",
+    "ai-writing",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "codex",
+    "cursor"
+   ],
+   "desc": "Agent skill that removes signs of AI-generated writing from text"
+  },
+  "cathrynlavery/diagram-design": {
+   "stars": 65471,
+   "created": "2026-04-16",
+   "lang": "HTML",
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "codex",
+    "data-visualization",
+    "diagrams",
+    "drawio",
+    "mermaid",
+    "svg"
+   ],
+   "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+  },
+  "gsd-build/get-shit-done": {
+   "stars": 64155,
+   "created": "2025-12-14",
+   "lang": "JavaScript",
+   "topics": [
+    "claude-code",
+    "context-engineering",
+    "meta-prompting",
+    "spec-driven-development"
+   ],
+   "desc": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES."
+  },
+  "Ebony-Vinyl/dsh-our-free-model": {
+   "stars": 63816,
+   "created": "2026-09-24",
+   "lang": "JavaScript",
+   "topics": [
+    "ai-agents",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh",
+    "dsh-plugin",
+    "free-model",
+    "llm"
+   ],
+   "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,"
+  },
+  "cloudflare/security-audit-skill": {
+   "stars": 63458,
+   "created": "2026-06-18",
+   "lang": "JavaScript",
+   "topics": [],
+   "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+  },
+  "bilawalsidhu/gods-eye-view": {
+   "stars": 63155,
+   "created": "2026-06-22",
+   "lang": "JavaScript",
+   "topics": [
+    "3d-globe",
+    "cesium",
+    "flight-tracking",
+    "geospatial",
+    "geospatial-intelligence",
+    "gis",
+    "osint",
+    "photogrammetry"
+   ],
+   "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+  },
+  "MemPalace/mempalace": {
+   "stars": 60436,
+   "created": "2026-04-05",
+   "lang": "Python",
+   "topics": [
+    "ai",
+    "chromadb",
+    "llm",
+    "mcp",
+    "memory",
+    "python"
+   ],
+   "desc": "The best-benchmarked open-source AI memory system. And it's free."
+  },
+  "karpathy/nanochat": {
+   "stars": 60332,
+   "created": "2025-10-13",
+   "lang": "Python",
+   "topics": [],
+   "desc": "The best ChatGPT that $100 can buy."
+  },
+  "ayghri/i-have-adhd": {
+   "stars": 60324,
+   "created": "2026-05-13",
+   "lang": "Python",
+   "topics": [
+    "adhd",
+    "claude-",
+    "claude-code-plugin",
+    "claude-skills",
+    "developer-tools",
+    "productivity"
+   ],
+   "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+  },
+  "jamiepine/voicebox": {
+   "stars": 59534,
+   "created": "2026-01-25",
+   "lang": "Python",
+   "topics": [
+    "ai",
+    "cuda",
+    "mlx",
+    "qwen3-tts",
+    "qwen3-tts-ui",
+    "voice-ai",
+    "voice-clone",
+    "whisper"
+   ],
+   "desc": "The open-source AI voice studio. Clone, dictate, create."
+  },
+  "vectorize-io/hindsight": {
+   "stars": 59403,
+   "created": "2025-10-30",
+   "lang": "Python",
+   "topics": [
+    "agentic-ai",
+    "agents",
+    "ai-memory",
+    "memory"
+   ],
+   "desc": "Hindsight: Agent Memory That Learns"
+  },
+  "coreyhaines31/marketingskills": {
+   "stars": 58871,
+   "created": "2026-01-15",
+   "lang": "JavaScript",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "ai-seo",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-skills",
+    "codex"
+   ],
+   "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+  },
+  "HKUDS/CLI-Anything": {
+   "stars": 58356,
+   "created": "2026-03-08",
+   "lang": "Python",
+   "topics": [],
+   "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+  },
+  "router-for-me/CLIProxyAPI": {
+   "stars": 57795,
+   "created": "2025-07-01",
+   "lang": "Go",
+   "topics": [
+    "antigravity",
+    "claude-code",
+    "cluade",
+    "codex",
+    "devin",
+    "gemini",
+    "muse",
+    "openai"
+   ],
+   "desc": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie"
+  },
+  "bojieli/ai-agent-book": {
+   "stars": 57331,
+   "created": "2025-09-09",
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "agent-memory",
+    "ai-agent",
+    "book",
+    "coding-agent",
+    "context-engineering",
+    "large-language-models",
+    "llm"
+   ],
+   "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+  },
+  "Zie619/n8n-workflows": {
+   "stars": 57182,
+   "created": "2025-05-14",
+   "lang": "Python",
+   "topics": [],
+   "desc": "all of the workflows of n8n i could find (also from the site itself)"
+  },
+  "microsoft/VibeVoice": {
+   "stars": 56412,
+   "created": "2025-08-25",
+   "lang": "Python",
+   "topics": [],
+   "desc": "Open-Source Frontier Voice AI"
+  },
+  "K-Dense-AI/scientific-agent-skills": {
+   "stars": 56314,
+   "created": "2025-10-19",
+   "lang": "Python",
+   "topics": [
+    "agent-skills",
+    "ai-scientist",
+    "bioinformatics",
+    "chemoinformatics",
+    "claude",
+    "claude-skills",
+    "claudecode",
+    "clinical-research"
+   ],
+   "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog"
+  },
+  "HKUDS/DeepTutor": {
+   "stars": 55851,
+   "created": "2025-12-28",
+   "lang": "Python",
+   "topics": [
+    "ai-agents",
+    "ai-tutor",
+    "clawbot",
+    "cli-tool",
+    "deepresearch",
+    "interactive-learning",
+    "learning",
+    "multi-agent-systems"
+   ],
+   "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
+  },
+  "Imbad0202/academic-research-skills": {
+   "stars": 55632,
+   "created": "2026-02-26",
+   "lang": "Python",
+   "topics": [
+    "academic-pipeline",
+    "academic-writing",
+    "ai-research",
+    "claude",
+    "claude-code",
+    "literature-review",
+    "peer-review",
+    "prompt-engineering"
+   ],
+   "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize"
+  },
+  "multica-ai/multica": {
+   "stars": 55150,
+   "created": "2026-01-13",
+   "lang": "Go",
+   "topics": [],
+   "desc": "Make humans and AI agents work as one team — open-source and self-hostable."
+  },
+  "ChromeDevTools/chrome-devtools-mcp": {
+   "stars": 54881,
+   "created": "2025-09-11",
+   "lang": "TypeScript",
+   "topics": [
+    "browser",
+    "chrome",
+    "chrome-devtools",
+    "debugging",
+    "devtools",
+    "mcp",
+    "mcp-server",
+    "puppeteer"
+   ],
+   "desc": "Chrome DevTools for coding agents"
+  },
+  "emilkowalski/skills": {
+   "stars": 54079,
+   "created": "2026-03-16",
+   "lang": "Markdown",
+   "topics": [],
+   "desc": "Skills for Designers and Engineers."
+  },
+  "VoltAgent/awesome-openclaw-skills": {
+   "stars": 53588,
+   "created": "2026-01-25",
+   "lang": null,
+   "topics": [
+    "agent-skills",
+    "awesome",
+    "awesome-list",
+    "awesome-lists",
+    "clawd",
+    "clawdbot",
+    "clawdbot-skill",
+    "clawdhub"
+   ],
+   "desc": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞"
+  },
+  "Gathin23/cleanyourtv": {
+   "stars": 53189,
+   "created": "2026-10-17",
+   "lang": "Python",
+   "topics": [
+    "adb",
+    "adblock",
+    "android-tv",
+    "android-tv-launcher",
+    "apple-tv",
+    "bloatware-removal",
+    "claude-code",
+    "debloat"
+   ],
+   "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home."
+  },
+  "Yuan1z0825/nature-skills": {
+   "stars": 52544,
+   "created": "2026-04-24",
+   "lang": "Python",
+   "topics": [
+    "codex-skills",
+    "nature",
+    "nature-skills"
+   ],
+   "desc": "符合nature论文学术表达和科研绘图的Skill"
+  },
+  "boykopovar/AnyPS5": {
+   "stars": 51707,
+   "created": "2026-08-03",
+   "lang": "C++",
+   "topics": [
+    "anyps5",
+    "dynamic-library",
+    "game-porting",
+    "ps5",
+    "ps5-tools",
+    "spir-v",
+    "vulkan"
+   ],
+   "desc": "Tool for automatic PS5 executables porting to Linux and Windows"
+  },
+  "KeygraphHQ/shannon": {
+   "stars": 51324,
+   "created": "2025-09-27",
+   "lang": "TypeScript",
+   "topics": [
+    "ai-penetration-testing",
+    "ai-security",
+    "api-security",
+    "appsec",
+    "ci-cd",
+    "cybersecurity",
+    "devsecops",
+    "ethical-hacking"
+   ],
+   "desc": "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production."
+  },
+  "apple/container": {
+   "stars": 51086,
+   "created": "2025-05-30",
+   "lang": "Swift",
+   "topics": [],
+   "desc": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. "
+  },
+  "chenglou/pretext": {
+   "stars": 50993,
+   "created": "2026-03-07",
+   "lang": "TypeScript",
+   "topics": [],
+   "desc": "Fast, accurate & comprehensive text measurement & layout"
+  },
+  "kepano/obsidian-skills": {
+   "stars": 50891,
+   "created": "2026-01-02",
+   "lang": null,
+   "topics": [
+    "agents",
+    "agentskills",
+    "bases",
+    "claude",
+    "clawdbot",
+    "cli",
+    "codex",
+    "defuddle"
+   ],
+   "desc": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas."
+  },
+  "HKUDS/nanobot": {
+   "stars": 49880,
+   "created": "2026-02-01",
+   "lang": "Python",
+   "topics": [
+    "agent-framework",
+    "ai-agent",
+    "ai-agents",
+    "chatbot",
+    "chatops",
+    "discord-bot",
+    "llm-agents",
+    "llms"
+   ],
+   "desc": "Your lightweight open-source personal agent."
+  },
+  "alibaba/open-code-review": {
+   "stars": 49562,
+   "created": "2026-05-18",
+   "lang": "Go",
+   "topics": [
+    "agent",
+    "agent-skills",
+    "code-review",
+    "code-review-assistant",
+    "harness",
+    "repository-level-context"
+   ],
+   "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,"
+  },
+  "Nutlope/hallmark": {
+   "stars": 49433,
+   "created": "2026-04-27",
+   "lang": "CSS",
+   "topics": [],
+   "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+  },
+  "pingdotgg/t3code": {
+   "stars": 49371,
+   "created": "2026-02-08",
+   "lang": "TypeScript",
+   "topics": [],
+   "desc": ""
+  },
+  "sickn33/agentic-awesome-skills": {
+   "stars": 49273,
+   "created": "2026-01-14",
+   "lang": "Python",
+   "topics": [
+    "agent-skills",
+    "agentic-skills",
+    "ai-agent-skills",
+    "ai-agents",
+    "ai-coding",
+    "ai-workflows",
+    "antigravity",
+    "antigravity-skills"
+   ],
+   "desc": "2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins."
+  },
+  "herdrdev/herdr": {
+   "stars": 48526,
+   "created": "2026-03-27",
+   "lang": "Rust",
+   "topics": [
+    "agent",
+    "agent-orchestration",
+    "ai",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents"
+   ],
+   "desc": "the runtime your coding agents live on"
+  },
+  "JustVugg/colibri": {
+   "stars": 48396,
+   "created": "2026-07-01",
+   "lang": "C",
+   "topics": [],
+   "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own."
+  },
+  "D4Vinci/Scrapling": {
+   "stars": 98739,
+   "created": "2024-10-13",
+   "lang": "Python",
+   "topics": [
+    "ai",
+    "ai-scraping",
+    "automation",
+    "crawler",
+    "crawling",
+    "crawling-python",
+    "data",
+    "data-extraction"
+   ],
+   "desc": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks"
+  },
+  "Donchitos/Claude-Code-Game-Studios": {
+   "stars": 36028,
+   "created": "2026-02-12",
+   "lang": "Shell",
+   "topics": [
+    "ai-agents",
+    "ai-assisted-development",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "game-design",
+    "game-development",
+    "gamedev"
+   ],
+   "desc": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
+  },
+  "NVIDIA/auto-ontology": {
+   "stars": 8708,
+   "created": "2026-04-27",
+   "lang": "Python",
+   "topics": [],
+   "desc": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM "
+  },
+  "NationalSecurityAgency/ghidra": {
+   "stars": 98331,
+   "created": "2019-03-01",
+   "lang": "Java",
+   "topics": [
+    "disassembler",
+    "reverse-engineering",
+    "software-analysis"
+   ],
+   "desc": "Ghidra is a software reverse engineering (SRE) framework"
+  },
+  "The-PR-Agent/pr-agent": {
+   "stars": 15256,
+   "created": "2023-07-05",
+   "lang": "Python",
+   "topics": [
+    "ai",
+    "anthropic",
+    "code-review",
+    "coding-assistant",
+    "devtools",
+    "ollama",
+    "openai",
+    "pull-request"
+   ],
+   "desc": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier."
+  },
+  "angular/angular": {
+   "stars": 101229,
+   "created": "2014-09-18",
+   "lang": "TypeScript",
+   "topics": [
+    "angular",
+    "javascript",
+    "pwa",
+    "typescript",
+    "web",
+    "web-framework",
+    "web-performance"
+   ],
+   "desc": "Deliver web apps with confidence 🚀"
+  },
+  "anomalyco/opencode": {
+   "stars": 225003,
+   "created": "2025-04-30",
+   "lang": "TypeScript",
+   "topics": [],
+   "desc": "The open source coding agent."
+  },
+  "anthropics/claude-code": {
+   "stars": 154781,
+   "created": "2025-02-22",
+   "lang": "TypeScript",
+   "topics": [],
+   "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows "
+  },
+  "anthropics/knowledge-work-plugins": {
+   "stars": 34971,
+   "created": "2026-01-23",
+   "lang": "Python",
+   "topics": [],
+   "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+  },
+  "astral-sh/ruff": {
+   "stars": 50563,
+   "created": "2022-08-09",
+   "lang": "Rust",
+   "topics": [
+    "linter",
+    "pep8",
+    "python",
+    "python3",
+    "ruff",
+    "rust",
+    "rustpython",
+    "static-analysis"
+   ],
+   "desc": "An extremely fast Python linter and code formatter, written in Rust."
+  },
+  "etcd-io/etcd": {
+   "stars": 52540,
+   "created": "2013-07-06",
+   "lang": "Go",
+   "topics": [
+    "cncf",
+    "consensus",
+    "database",
+    "distributed-database",
+    "distributed-systems",
+    "etcd",
+    "go",
+    "key-value"
+   ],
+   "desc": "Distributed reliable key-value store for the most critical data of a distributed system"
+  },
+  "google-gemini/gemini-cli": {
+   "stars": 108754,
+   "created": "2025-04-17",
+   "lang": "TypeScript",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "cli",
+    "gemini",
+    "gemini-api",
+    "mcp-client",
+    "mcp-server"
+   ],
+   "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+  },
+  "google/skills": {
+   "stars": 22745,
+   "created": "2026-03-31",
+   "lang": "Python",
+   "topics": [
+    "google",
+    "googlecloud",
+    "skills"
+   ],
+   "desc": "Agent Skills for Google products and technologies"
+  },
+  "hyprwm/Hyprland": {
+   "stars": 40426,
+   "created": "2022-03-16",
+   "lang": "C++",
+   "topics": [
+    "compositor",
+    "cpp26",
+    "wayland",
+    "wayland-compositor"
+   ],
+   "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks."
+  },
+  "jakubkrehel/skills": {
+   "stars": 11237,
+   "created": "2026-07-10",
+   "lang": "Markdown",
+   "topics": [],
+   "desc": "A collection of agent skills that help you build great interfaces."
+  },
+  "lz4/lz4": {
+   "stars": 12604,
+   "created": "2014-03-25",
+   "lang": "C",
+   "topics": [
+    "c",
+    "compression",
+    "lz4"
+   ],
+   "desc": "Extremely Fast Compression algorithm"
+  },
+  "max-sixty/worktrunk": {
+   "stars": 11763,
+   "created": "2025-10-17",
+   "lang": "Rust",
+   "topics": [
+    "agents",
+    "claude-code",
+    "codex",
+    "developer-tools",
+    "git",
+    "worktrees"
+   ],
+   "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+  },
+  "microsoft/vscode": {
+   "stars": 194900,
+   "created": "2015-09-03",
+   "lang": "TypeScript",
+   "topics": [
+    "editor",
+    "electron",
+    "microsoft",
+    "typescript",
+    "visual-studio-code"
+   ],
+   "desc": "Visual Studio Code"
+  },
+  "milind-soni/OpenMausBot": {
+   "stars": 14933,
+   "created": "2026-08-11",
+   "lang": "TypeScript",
+   "topics": [
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "computer-use",
+    "docker",
+    "electron",
+    "expo",
+    "grok"
+   ],
+   "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use"
+  },
+  "mpv-player/mpv": {
+   "stars": 37823,
+   "created": "2012-10-13",
+   "lang": "C",
+   "topics": [
+    "audio",
+    "c",
+    "ffmpeg",
+    "mplayer",
+    "mpv",
+    "multimedia",
+    "video"
+   ],
+   "desc": "🎥 Command line media player"
+  },
+  "nightly-labs/openbot": {
+   "stars": 5998,
+   "created": "2026-08-12",
+   "lang": "TypeScript",
+   "topics": [
+    "ai-agents",
+    "bun",
+    "codex",
+    "electron",
+    "local-first",
+    "macos",
+    "solidjs",
+    "typescript"
+   ],
+   "desc": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
+  },
+  "nushell/nushell": {
+   "stars": 40870,
+   "created": "2019-05-10",
+   "lang": "Rust",
+   "topics": [
+    "nushell",
+    "rust",
+    "shell"
+   ],
+   "desc": "A new type of shell"
+  },
+  "openai/codex": {
+   "stars": 133471,
+   "created": "2025-04-13",
+   "lang": "Rust",
+   "topics": [],
+   "desc": "Lightweight coding agent that runs in your terminal"
+  },
+  "openssl/openssl": {
+   "stars": 31246,
+   "created": "2013-01-15",
+   "lang": "C",
+   "topics": [
+    "cryptography",
+    "decryption",
+    "encryption",
+    "openssl",
+    "ssl",
+    "tls"
+   ],
+   "desc": "General purpose TLS and crypto library"
+  },
+  "prometheus/prometheus": {
+   "stars": 67067,
+   "created": "2012-11-24",
+   "lang": "Go",
+   "topics": [
+    "alerting",
+    "graphing",
+    "hacktoberfest",
+    "metrics",
+    "monitoring",
+    "prometheus",
+    "time-series"
+   ],
+   "desc": "The Prometheus monitoring system and time series database."
+  },
+  "rails/rails": {
+   "stars": 58940,
+   "created": "2008-04-11",
+   "lang": "Ruby",
+   "topics": [
+    "activejob",
+    "activerecord",
+    "framework",
+    "html",
+    "mvc",
+    "rails",
+    "ruby"
+   ],
+   "desc": "Ruby on Rails"
+  },
+  "react/react": {
+   "stars": 252142,
+   "created": "2013-05-24",
+   "lang": "JavaScript",
+   "topics": [
+    "declarative",
+    "frontend",
+    "javascript",
+    "library",
+    "react",
+    "ui"
+   ],
+   "desc": "The library for web and native user interfaces."
+  },
+  "rust-lang/rust": {
+   "stars": 121305,
+   "created": "2010-06-16",
+   "lang": "Rust",
+   "topics": [
+    "compiler",
+    "language",
+    "rust"
+   ],
+   "desc": "Empowering everyone to build reliable and efficient software."
+  },
+  "shiyu-coder/Kronos": {
+   "stars": 47029,
+   "created": "2025-07-01",
+   "lang": "Python",
+   "topics": [],
+   "desc": "Kronos: A Foundation Model for the Language of Financial Markets"
+  },
+  "storytold/artcraft": {
+   "stars": 39199,
+   "created": "2022-03-31",
+   "lang": "Rust",
+   "topics": [
+    "3d-graphics",
+    "ai",
+    "aivideo",
+    "filmmaking",
+    "imagegeneration"
+   ],
+   "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+  },
+  "symfony/symfony": {
+   "stars": 31319,
+   "created": "2010-01-04",
+   "lang": "PHP",
+   "topics": [
+    "bundle",
+    "framework",
+    "hacktoberfest",
+    "php",
+    "php-framework",
+    "symfony",
+    "symfony-bundle"
+   ],
+   "desc": "The Symfony PHP framework"
+  },
+  "zed-industries/zed": {
+   "stars": 93338,
+   "created": "2021-02-20",
+   "lang": "Rust",
+   "topics": [
+    "gpui",
+    "rust-lang",
+    "text-editor",
+    "zed"
+   ],
+   "desc": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+  }
+ },
+ "errors": []
+}
