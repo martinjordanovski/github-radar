@@ -2,7 +2,7 @@
 
 Daily snapshot of GitHub Trending (daily, weekly, monthly) plus star counts for a watchlist, everything trending, and repos under 18 months old with 40K+ stars. Public GitHub data only.
 
-It powers **https://martinjordanovski.com/trending/**: the page reads `data/` and `tracker/snapshots/` straight from this repo, so the website never needs a redeploy for new data.
+It powers **https://martinjordanovski.com/github-trending/**: the page reads `data/` and `tracker/snapshots/` straight from this repo, so the website never needs a redeploy for new data.
 
 ## How it runs
 
